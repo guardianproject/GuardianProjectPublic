@@ -1,0 +1,18 @@
+ fingerprint                                       | email
+=======================================================================
+5E61 C878 0F86 295C E17D  8677 9F0F E587 374B BE81 | Hans-Christoph_Steiner__hans@at.or.at_
+29D9 9C07 BEA7 598B 2807  82BE 6692 829C D2D2 BE81 | Derek_Halliday___derek@guardianproject.info_
+D16F 04E9 2868 8169 B640  88D5 A84B F48A 12CA 3765 | Lee_Azzarello___lee@rockingtiger.com_
+28D7 9F0F 013D 4680 2719  8CE5 0095 7622 EFC1 070D | sign@deangelo__root@guardianproject.info_
+EE40 5F49 108E A506 EEFD  6830 1A5D 76D2 700A 06E9 | setup@deangelo__root@guardianproject.info_
+97A1 E2BB C897 61B4 B667  7FEF 44C8 BD5D B21D A7A9 | Rosa_of_Guardian__rosa@guardianproject.info_
+60FB 6909 7B2A 7598 11A8  6E0E 6786 6BEC A446 9630 | Harlo_Holmes___harlo.holmes@gmail.com_
+B605 F087 AE87 5CCA 9B76  2A39 EFBF A727 8D8E FFDA | Mark_Belinsky__mark@guardianproject.info_
+FCBE 0E94 2C9B DE28 687E  5B5A 8AA9 9246 4610 C3DB | Abel_Luck___abel@guardianproject.info_
+BBE2 0FD6 DA48 A3DD 4CC7  DF41 A801 183E 69B3 7AA9 | Nathan_of_Guardian__nathan@guardianproject.info_
+1893 0780 A043 3A61 B8B2  17D6 97D0 5003 DA73 1A17 | Abel_Luck___abel@guardianproject.info_
+C85A 83E6 BE71 EA3C 8BA2  FB16 3C09 66BA 8107 9F68 | build@semiparanoid__root@guardianproject.info_
+FA82 CDDA 55C5 34EB 0EE2  3F5E CDDC CBEF 438D 5CF7 | root@semiparanoid__root@guardianproject.info_
+6F57 3CDC 0E19 0E0F 4C0A  B155 2A1E 2A34 308D 1650 | build@halfparanoid__root@guardianproject.info_
+910B 5008 0967 87D8 578D  84D5 6A74 AC74 FDDF 0437 | root@halfparanoid__root@guardianproject.info_
+575B 2CB2 1B23 576F FD68  66E0 DEBB F861 BB8E 5A38 | Bryan_Nunez___bryan.nunez@gmail.com_
